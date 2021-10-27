@@ -41,3 +41,7 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+    background-color: rgb(33, 65, 70);
+}
